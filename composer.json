@@ -1,5 +1,5 @@
 {
-    "name": "symfony/serializer",
+    "name": "kielcu/serializer",
     "type": "library",
     "description": "Symfony Serializer Component",
     "keywords": [],
